@@ -1,2 +1,2 @@
 # PrototypeAlfareros
-Prototipo Para Alfareros del Gres
+Prototipo Para la Bloquera Alfareros del Gres
